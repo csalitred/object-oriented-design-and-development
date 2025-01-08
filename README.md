@@ -1,2 +1,9 @@
 # Object-Oriented-Design-and-Development
-Project repository for the course ECE 517 @NC State
+Repository for ECE 517: Object-Oriented Design and Development @ NC State University
+
+## Course Description
+This course covers advanced concepts in object-oriented design and development, including software engineering principles, design patterns, and open-source development practices.
+
+## Technical Stack
+- Ruby
+- Ruby on Rails
